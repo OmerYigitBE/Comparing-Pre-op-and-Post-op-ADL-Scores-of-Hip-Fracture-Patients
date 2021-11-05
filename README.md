@@ -11,6 +11,10 @@ The variables are:
 - housing situation: the housing situation prior to the hip fracture (1: alone, 2: with family or partner, 3: nursing home)
 
 Procedures used:
+- proc sgplot
+- proc sgpanel
+- proc gplot
+- proc glm
 - proc mixed
 - proc glimmix
 
